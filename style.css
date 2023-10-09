@@ -1,0 +1,142 @@
+*{
+    margin: 0px;
+}
+.navbar{
+    display: flex;
+   
+    justify-content: right;
+    position: sticky;
+    top: 0px;
+}
+.navtext{
+    margin-left: 20px;
+    font-size: 20px;
+    font-weight: lighter;
+    padding: 15px;
+}
+.logo{
+    margin-right: 400px;
+    padding: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 30px;
+    color: blue;
+}
+.second_div{
+    text-align: center;
+    width: 100%;
+    height: 500px;
+    background-image: url(bg5.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+.second_divtext{
+    padding: 150px 0px 10px 0px;
+    color: white;
+    font-size: 45px;
+}
+.box{
+       display: inline-block;
+       position:relative;
+       margin: 45px;
+}
+.box3{
+    display: inline-block;
+    position:relative;
+}
+.btn1{
+    width: 150px;
+    height: 40px;
+    background-color:beige ;
+    color:blue;
+    border: none ;
+    border-radius: 5px;
+    margin-top: 30px;
+    font:19px bolder;
+}
+.btn_two{
+    background-color:black;
+    right: 90px;
+    position: absolute;
+    border: none;
+    border-top-right-radius: 15px;
+    border-bottom-right-radius: 15px;
+    color: white;
+    width: 150px;
+    height: 40px;
+    font-size: 15px;
+}
+.btn3{
+    width: 150px;
+    height: 40px;
+    background-color:rgb(22, 20, 20) ;
+    color:white;
+    border: none ;
+    font:19px bolder;
+}
+.btn_4{
+    background-color: black;
+    color: white;
+    width: 120px;
+    height: 30px;
+    border-radius: 15px;
+    border: none;
+    right: 15px;
+    position: absolute;
+    margin-top: 4px;
+
+}
+.search_job{
+    font-size:17px;
+    width: 500px;
+    border: none; 
+    border-radius: 30px;
+    padding: 10px;
+    outline: none;
+}
+.email_box{
+    font-size:15px;
+    width: 900px;
+    border: none; 
+    border-radius: 30px;
+    padding: 10px;
+    outline: none;
+    margin-bottom: 40px;
+}
+.third_div{
+    display: flex;
+}
+.third_left{
+    width: 50%;
+    margin: 50px 0px 50px 160px; 
+}
+.thirs_right{
+    width: 50%;
+}
+.img1{
+    width: 600px;
+    height: 290px;
+    margin: 50px 50px 0px 0px;
+
+} 
+.img2{
+    width: 600px;
+    height: 290px;
+    margin: 50px 0px 50px 50px; 
+}
+.fourth_div{
+    display: flex;
+}
+.fourth_right{
+    margin: 40px 50px 0px 60px;
+}
+.last{
+    background-color: #0b66ddd3;;
+    padding: 50px 0px 20px 150px;
+}
+.footer
+{
+    text-align: center;
+    padding: 20px;
+    color: rgba(0,0,0,.6);
+}
